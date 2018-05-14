@@ -5,7 +5,7 @@ place to knowledge drop tips, tricks, and lessons learned by team leads that
 have done this a time or two.
 
 **Steps**
-1. File a new issue in this repo with <your name>  as the title. This will
+1. File a new issue in this repo with \<your name\>  as the title. This will
    provide you with an indvidual checklist that will help you ramp up on
 anchorship.
 1. After using the resources/completing the TODOs on the checklist, close the
