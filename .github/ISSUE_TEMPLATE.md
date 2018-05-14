@@ -4,21 +4,21 @@ Welcome to anchoring! Here are a few things to help you get started.
 
 ## Communication
 
-- [] Join the #cf-anchors channel on Pivotal Slack
-- [] Join the cf-anchors@pivotal.io mailing list
+- [ ] Join the #cf-anchors channel on Pivotal Slack
+- [ ] Join the cf-anchors@pivotal.io mailing list
 
 ## Being an Anchor
 
 Many pivots over the years have cultivated and aggregated knowledge surrounding
 "How to Be an Anchor for CF". 
 
-- [] This [pivotalk article][anchor-pivotalk] about it
-- [] Crash course [slide deck][slides]
-- [] The original [doc][anchor-info] that inspired the above contributions
+- [ ] This [pivotalk article][anchor-pivotalk] about it
+- [ ] Crash course [slide deck][slides]
+- [ ] The original [doc][anchor-info] that inspired the above contributions
 
 ## Events
 
-- [] Annual CF Anchor Summit (@ Cloud Foundry Summit)
+- [ ] Annual CF Anchor Summit (@ Cloud Foundry Summit)
 
 
 [anchor-info]: https://sites.google.com/a/pivotal.io/cloud-foundry/engineering/anchor-info?pli=1
