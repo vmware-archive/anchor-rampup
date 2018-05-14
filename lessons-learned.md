@@ -6,20 +6,17 @@ for Cloud Foundry.
 
 ## Backlog Management
 Backlog management is predominately dictated by the relationship between you,
-your product manager, and the team. I've had success with having an icebox of
-tech debt cleanup chores and tasks that don't directly add consumer value, then
-after an IPM, prioritizing those chores into the backlog in a way that
-distributes [toil][toil-SRE] and grunge work, without exhausting the engineering
-team. Consider an "open-icebox" approach, where any team member can drop a chore
-in the icebox, and your job becomes prioritization of pain points, instead of
+your product manager, and the team. 
+- Prioritize chores into the backlog in a way that distributes [toil][toil-SRE] and grunge work, without exhausting the engineering team. 
+- Consider an "open-icebox" approach, where any team member can drop a chore
+in the icebox: your job becomes prioritization of pain points, instead of
 being directly responsible for seeing all the pain points.
 
 ## Team Health
 
 ### Feedback
-Use feedback to find out what **your** team needs. This [pivotalk
-article][amelia-pivotalk] outlined one anchor's approach to anonymous feedback
-on the anchor.
+Use feedback to find out what **your** team needs. 
+- This [pivotalk article][amelia-pivotalk] outlined one anchor's approach to anonymous feedback on the anchor.
 
 ## Managing Technical Debt 
 If you ever personally feel pain around toil,
