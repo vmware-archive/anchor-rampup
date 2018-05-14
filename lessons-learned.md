@@ -21,7 +21,8 @@ Use feedback to find out what **your** team needs. This [pivotalk
 article][amelia-pivotalk] outlined one anchor's approach to anonymous feedback
 on the anchor.
 
-## Managing Technical Debt If you ever personally feel pain around toil,
+## Managing Technical Debt 
+If you ever personally feel pain around toil,
 manual, or grunge work you are doing, this is a sign that you should be
 investing in chipping away at tech debt. I think one of the best things an
 anchor can do for tech debt is faciliate an environment in which people don't
