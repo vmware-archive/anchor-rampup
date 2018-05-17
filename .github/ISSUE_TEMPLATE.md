@@ -1,3 +1,5 @@
+If filing a true issue against the repo, please disregard the following checklist.
+
 # Ramp Up Checklist
 
 Welcome to anchoring! Here are a few things to help you get started.
