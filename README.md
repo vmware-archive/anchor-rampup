@@ -12,3 +12,6 @@ anchorship.
    issue when you feel you're finished.
 1. Come back with your new found anchor knowledge and PR this repo with your own
    lessons learned and TODO items that will help future anchors.
+
+## Contributing
+Please see [`CONTRIBUTING.md`](https://github.com/pivotal-cf/anchor-rampup/blob/master/CONTRIBUTING.md) for contribution patterns and instructions.
