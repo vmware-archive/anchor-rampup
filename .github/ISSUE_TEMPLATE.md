@@ -5,6 +5,7 @@ Welcome to anchoring! Here are a few things to help you get started.
 
 ## Communication
 - [ ] Join the #cf-anchors channel on Pivotal Slack
+- [ ] Join any location-specific anchor channels (like #your-office-anchors) that might be organizing events (e.g. anchor lunch discussions)
 - [ ] Send an ask+cf@pivotal.io ticket to join the cf-anchors@pivotal.io mailing list
 - [ ] Send an ask+cf@pivotal.io ticket to be added to the [Directors-PMs-Anchors](https://github.com/orgs/pivotal-cf/teams/directors-pms-anchors) github team
 
